@@ -27,6 +27,8 @@ $ npx eslint --init
 $ npx eslint a.js
 ```
 
+![](./shell.png)
+
 ```
 ➜  eslint npx eslint a.js
 
@@ -40,7 +42,10 @@ $ npx eslint a.js
 每次都是在命令行检查实在是不直观，需要使用。
 
 安装 eslint 这个插件就行了。
+![](./vscode.png)
 
-之前eslint总是没有反应，应该我没有启动设置，刚才点了几下居然可以了。。。就是点击代码旁边的小灯泡。。。之前都没有注意
+之前eslint总是没有反应，应该我没有启动设置，需要点击代码旁边的小灯泡：
+![](./灯泡.png)
+![](./alloweslint.png)
 
 不过只会检查已经打开的文件。
